@@ -43,6 +43,7 @@ export const Slider = () => {
 
   //   return () => clearInterval(interval);
   // }, [current]);
+  //automatically created for pushes
 
   useEffect(() => {
     const backgroundInterval = setInterval(() => {
