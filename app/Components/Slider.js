@@ -5,9 +5,9 @@ import Image from "next/image";
 import Link from "next/link";
 
 import img1 from "../assets/images/Naana.jpeg";
-import img2 from "../assets/images/img12.jpg";
-import img3 from "../assets/images/img13.jpg";
-import img4 from "../assets/images/img14.jpg";
+import img2 from "../assets/images/img12.JPG";
+import img3 from "../assets/images/img13.JPG";
+import img4 from "../assets/images/img14.JPG";
 import img5 from "../assets/images/img11.jpg";
 
 export const Slider = () => {
