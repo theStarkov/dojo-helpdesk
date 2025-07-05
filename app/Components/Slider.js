@@ -29,6 +29,7 @@ export const Slider = () => {
     "Worship the Lord",
   ];
 
+  //can't tell what's happening
   // const sayHello = () => {
   //     console.log("hello world")
   // }
