@@ -190,11 +190,11 @@ export const Slider = () => {
                       Date:
                     </div>
                     <div className="text-center text-bold text-xl">
-                      13th June 2025
+                      11th July 2025
                     </div>
                     <div className="text-center text-bold text-xl">to</div>
                     <div className="text-center text-bold text-xl">
-                      14th June 2025
+                      12th July 2025
                     </div>
                   </div>
                 </div>
