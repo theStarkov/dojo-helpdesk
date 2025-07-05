@@ -94,7 +94,7 @@ export const Slider = () => {
             <div className="flex w-full flex-col gap-3 ">
               <div className="grid  justify-center rounded p-6">
                 <div className="text-[#C19503] text-center text-2xl  font-bold">
-                  A DAY WITH HIM @ 5
+                  A DAY WITH HIM
                 </div>
 
                 {/* Adding skemishes */}
@@ -128,31 +128,35 @@ export const Slider = () => {
                 <div className="border-r-8 border-[#C19503] p-6  text-white">
                   <div className="grid grid-rows-3 pl-16 ml-16 ">
                     <div className="text-center text-bold text-2xl">
-                      13th June 2025
+                      11th July 2025
                     </div>
                     <div className="text-center font-bold text-2xl text-[#C19503]">
                       {/*text-[#C19503] */}
                       to
                     </div>
                     <div className="text-center text-bold text-2xl">
-                      14th June 2025
+                      12th July 2025
                     </div>
                     {/* <div className='text-right text-bold text-3xl text-yellow-600'><span className='flex items-left justify-end text-left'>NOV</span> <span className='text-right'>DEC</span></div> */}
                     {/* <div className='text-right text-bold text-2xl'>November, 2023</div> */}
                   </div>
                 </div>
+                {/* VENUE DATA HERE */}
                 <div className=" text-white">
                   <div className="grid grid-rows-1">
                     <div className="text-center text-bold mt-4 text-2xl m-auto ">
                       FRIDAY 7PM - SATURDAY 7PM
                     </div>
-                    <div className="border-b-8 border-[#C19503]"></div>
-                    <div className="text-center text-bold text-2xl">
+                    {/* SDYFUR8GTI 9OCY0PU-[]
+                    745
+                    
+                    <div className="border-b-8 border-[#C19503]"></div> */}
+                    {/* <div className="text-center text-bold text-2xl">
                       GHANA GIRL GUIDES CENTRE
                     </div>
                     <div className="text-center text-bold text-lg tracking-wider ">
                       ACHIMOTA POLICE STATION
-                    </div>
+                    </div> */}
                   </div>
                 </div>
                 {/* <div class=" text-white align-left">
@@ -172,7 +176,7 @@ export const Slider = () => {
             <div className="flex w-full flex-col gap-3">
               <div className="grid  justify-center rounded ">
                 <div className="text-[#C19503] font-bold text-center text-xl">
-                  A Day with Him @ 5
+                  A Day with Him
                 </div>
                 <div className="text-center font-bold text-white p-2 text-3xl">
                   {monthTheme}
@@ -208,7 +212,8 @@ export const Slider = () => {
                     </div>
                   </div>
                 </div>
-                <div className=" p-3 text-white">
+                {/* VENUE DATA HERE */}
+                {/* <div className=" p-3 text-white">
                   <div className="grid grid-rows-1">
                     <div className="text-center text-xl text-[#C19503] font-bold">
                       Venue:
@@ -220,7 +225,7 @@ export const Slider = () => {
                       Achimota Police Station
                     </div>
                   </div>
-                </div>
+                </div> */}
               </div>
               <div className="grid justify-center z-10">
                 {" "}
