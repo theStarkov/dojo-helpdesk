@@ -14,7 +14,7 @@ export const Slider = () => {
   const images = [img1, img2, img3, img4, img5];
   const [currentBackground, setCurrentBackground] = useState(0);
   const [currentText, setCurrentText] = useState(0);
-  const monthTheme = "THE GRACE OF OUR LORD JESUS CHRIST";
+  const monthTheme = "A DAY WITH HIM";
   const wordings = [
     "Jesus Christ",
     "The Holy Spirit",
@@ -94,7 +94,7 @@ export const Slider = () => {
             <div className="flex w-full flex-col gap-3 ">
               <div className="grid  justify-center rounded p-6">
                 <div className="text-[#C19503] text-center text-2xl  font-bold">
-                  A DAY WITH HIM
+                  {/* A DAY WITH HIM */} SEPTEMEBER 2025 EDITION
                 </div>
 
                 {/* Adding skemishes */}
@@ -128,14 +128,14 @@ export const Slider = () => {
                 <div className="border-r-8 border-[#C19503] p-6  text-white">
                   <div className="grid grid-rows-3 pl-16 ml-16 ">
                     <div className="text-center text-bold text-2xl">
-                      11th July 2025
+                      12th Sept 2025
                     </div>
                     <div className="text-center font-bold text-2xl text-[#C19503]">
                       {/*text-[#C19503] */}
                       to
                     </div>
                     <div className="text-center text-bold text-2xl">
-                      12th July 2025
+                      13th Sept 2025
                     </div>
                     {/* <div className='text-right text-bold text-3xl text-yellow-600'><span className='flex items-left justify-end text-left'>NOV</span> <span className='text-right'>DEC</span></div> */}
                     {/* <div className='text-right text-bold text-2xl'>November, 2023</div> */}
@@ -147,16 +147,14 @@ export const Slider = () => {
                     <div className="text-center text-bold mt-4 text-2xl m-auto ">
                       FRIDAY 7PM - SATURDAY 7PM
                     </div>
-                    {/* SDYFUR8GTI 9OCY0PU-[]
-                    745
-                    
-                    <div className="border-b-8 border-[#C19503]"></div> */}
-                    {/* <div className="text-center text-bold text-2xl">
-                      GHANA GIRL GUIDES CENTRE
+
+                    <div className="border-b-8 border-[#C19503]"></div>
+                    <div className="text-center text-bold text-2xl">
+                      CHRIST OASIS MINISTRIES
                     </div>
                     <div className="text-center text-bold text-lg tracking-wider ">
-                      ACHIMOTA POLICE STATION
-                    </div> */}
+                      AIRPORT-CITY OPP. CASA TRASACCO BEHIND ACCRA MALL
+                    </div>
                   </div>
                 </div>
                 {/* <div class=" text-white align-left">
@@ -176,7 +174,7 @@ export const Slider = () => {
             <div className="flex w-full flex-col gap-3">
               <div className="grid  justify-center rounded ">
                 <div className="text-[#C19503] font-bold text-center text-xl">
-                  A Day with Him
+                  September 2025 Edition
                 </div>
                 <div className="text-center font-bold text-white p-2 text-3xl">
                   {monthTheme}
@@ -190,11 +188,11 @@ export const Slider = () => {
                       Date:
                     </div>
                     <div className="text-center text-bold text-xl">
-                      11th July 2025
+                      12th Sept 2025
                     </div>
                     <div className="text-center text-bold text-xl">to</div>
                     <div className="text-center text-bold text-xl">
-                      12th July 2025
+                      13th Sept 2025
                     </div>
                   </div>
                 </div>
@@ -213,19 +211,19 @@ export const Slider = () => {
                   </div>
                 </div>
                 {/* VENUE DATA HERE */}
-                {/* <div className=" p-3 text-white">
+                <div className=" p-3 text-white">
                   <div className="grid grid-rows-1">
                     <div className="text-center text-xl text-[#C19503] font-bold">
                       Venue:
                     </div>
                     <div className="text-center text-bold text-xl">
-                      Ghana Girl Guides Center
+                      Christ Oasis Ministries
                     </div>
                     <div className="text-center text-bold text-xl">
-                      Achimota Police Station
+                      Airport-City Opp. CASA Trasacco Behind Accra Mall
                     </div>
                   </div>
-                </div> */}
+                </div>
               </div>
               <div className="grid justify-center z-10">
                 {" "}
