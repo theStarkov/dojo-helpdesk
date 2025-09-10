@@ -94,7 +94,7 @@ export const Slider = () => {
             <div className="flex w-full flex-col gap-3 ">
               <div className="grid  justify-center rounded p-6">
                 <div className="text-[#C19503] text-center text-2xl  font-bold">
-                  {/* A DAY WITH HIM */} SEPTEMEBER 2025 EDITION
+                  {/* A DAY WITH HIM */} OCTOBER 2025 EDITION
                 </div>
 
                 {/* Adding skemishes */}
@@ -128,14 +128,14 @@ export const Slider = () => {
                 <div className="border-r-8 border-[#C19503] p-6  text-white">
                   <div className="grid grid-rows-3 pl-16 ml-16 ">
                     <div className="text-center text-bold text-2xl">
-                      12th Sept 2025
+                      10th Oct 2025
                     </div>
                     <div className="text-center font-bold text-2xl text-[#C19503]">
                       {/*text-[#C19503] */}
                       to
                     </div>
                     <div className="text-center text-bold text-2xl">
-                      13th Sept 2025
+                      11th Oct 2025
                     </div>
                     {/* <div className='text-right text-bold text-3xl text-yellow-600'><span className='flex items-left justify-end text-left'>NOV</span> <span className='text-right'>DEC</span></div> */}
                     {/* <div className='text-right text-bold text-2xl'>November, 2023</div> */}
@@ -174,7 +174,7 @@ export const Slider = () => {
             <div className="flex w-full flex-col gap-3">
               <div className="grid  justify-center rounded ">
                 <div className="text-[#C19503] font-bold text-center text-xl">
-                  September 2025 Edition
+                  October 2025 Edition
                 </div>
                 <div className="text-center font-bold text-white p-2 text-3xl">
                   {monthTheme}
@@ -188,11 +188,11 @@ export const Slider = () => {
                       Date:
                     </div>
                     <div className="text-center text-bold text-xl">
-                      12th Sept 2025
+                      10th Oct 2025
                     </div>
                     <div className="text-center text-bold text-xl">to</div>
                     <div className="text-center text-bold text-xl">
-                      13th Sept 2025
+                      11th Oct 2025
                     </div>
                   </div>
                 </div>
