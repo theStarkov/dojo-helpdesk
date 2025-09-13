@@ -18,7 +18,7 @@ export const Slider = () => {
   ];
   const [currentBackground, setCurrentBackground] = useState(0);
   const [currentText, setCurrentText] = useState(0);
-  const monthTheme = "A FAITHFUL GOD AND HIS FRIENDS";
+  const monthTheme = "THE FAITHFUL GOD AND HIS FRIENDS";
   const wordings = [
     "Jesus Christ",
     "The Holy Spirit",
