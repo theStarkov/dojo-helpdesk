@@ -14,7 +14,7 @@ export const Slider = () => {
   const images = [img1, img2, img3, img4, img5];
   const [currentBackground, setCurrentBackground] = useState(0);
   const [currentText, setCurrentText] = useState(0);
-  const monthTheme = "A DAY WITH HIM";
+  const monthTheme = "A FAITHFUL GOD AND HIS FAITHFUL FRIENDS";
   const wordings = [
     "Jesus Christ",
     "The Holy Spirit",
@@ -94,7 +94,8 @@ export const Slider = () => {
             <div className="flex w-full flex-col gap-3 ">
               <div className="grid  justify-center rounded p-6">
                 <div className="text-[#C19503] text-center text-2xl  font-bold">
-                  {/* A DAY WITH HIM */} OCTOBER 2025 EDITION
+                  A DAY WITH HIM
+                  {/* OCTOBER 2025 EDITION */}
                 </div>
 
                 {/* Adding skemishes */}
@@ -150,10 +151,10 @@ export const Slider = () => {
 
                     <div className="border-b-8 border-[#C19503]"></div>
                     <div className="text-center text-bold text-2xl">
-                      CHRIST OASIS MINISTRIES
+                      GHANA GIRL GUIDES CENTRE
                     </div>
                     <div className="text-center text-bold text-lg tracking-wider ">
-                      AIRPORT-CITY OPP. CASA TRASACCO BEHIND ACCRA MALL
+                      NEAR ACHIMOTA POLICE STATION
                     </div>
                   </div>
                 </div>
@@ -173,10 +174,11 @@ export const Slider = () => {
             {/* Old Screen */}
             <div className="flex w-full flex-col gap-3">
               <div className="grid  justify-center rounded ">
-                <div className="text-[#C19503] font-bold text-center text-xl">
-                  October 2025 Edition
+                <div className="text-[#C19503] font-bold text-center mt-2 text-lg">
+                  A Day With Him
+                  {/* October 2025 Edition */}
                 </div>
-                <div className="text-center font-bold text-white p-2 text-3xl">
+                <div className="text-center font-bold text-white p-2 text-2xl">
                   {monthTheme}
                   {/* <GradientText>{monthTheme}</GradientText> */}
                 </div>
@@ -217,10 +219,10 @@ export const Slider = () => {
                       Venue:
                     </div>
                     <div className="text-center text-bold text-xl">
-                      Christ Oasis Ministries
+                      Ghana Girl Guides
                     </div>
                     <div className="text-center text-bold text-xl">
-                      Airport-City Opp. CASA Trasacco Behind Accra Mall
+                      Near Achimota Police Station
                     </div>
                   </div>
                 </div>
