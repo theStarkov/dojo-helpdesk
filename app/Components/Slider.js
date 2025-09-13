@@ -4,17 +4,21 @@ import { Fragment, use, useEffect, useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
 
-import img1 from "../assets/images/Naana.jpeg";
-import img2 from "../assets/images/img12.JPG";
-import img3 from "../assets/images/img13.JPG";
-import img4 from "../assets/images/img14.JPG";
-import img5 from "../assets/images/img11.jpg";
+import img1 from "../assets/images/IMG_0645.PNG";
+import img2 from "../assets/images/IMG_0646.PNG";
+// import img3 from "../assets/images/img13.JPG";
+// import img4 from "../assets/images/img14.JPG";
+// import img5 from "../assets/images/img11.jpg";
 
 export const Slider = () => {
-  const images = [img1, img2, img3, img4, img5];
+  const images = [
+    img1,
+    img2,
+    //  img3, img4, img5
+  ];
   const [currentBackground, setCurrentBackground] = useState(0);
   const [currentText, setCurrentText] = useState(0);
-  const monthTheme = "A FAITHFUL GOD AND HIS FAITHFUL FRIENDS";
+  const monthTheme = "A FAITHFUL GOD AND HIS FRIENDS";
   const wordings = [
     "Jesus Christ",
     "The Holy Spirit",
