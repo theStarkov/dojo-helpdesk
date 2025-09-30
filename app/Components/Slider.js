@@ -221,7 +221,7 @@ export const Slider = () => {
                 <div className=" p-3 text-white">
                   <div className="grid grid-rows-1">
                     <div className="text-center text-xl text-[#C19503] font-bold">
-                      // Venue:
+                      Venue:
                     </div>
                     <div className="text-center text-bold text-xl">
                       Christ Oasis Ministries
