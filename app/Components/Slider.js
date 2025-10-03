@@ -222,10 +222,10 @@ export const Slider = () => {
                     <div className="text-center text-xl text-[#C19503] font-bold">
                       Venue:
                     </div>
-                    <div className="text-center text-bold text-xl">
+                    <div className="text-center text-bold text-xl bg-white text-gray-700">
                       Venue to be communicated soon
                     </div>
-                    <div className="text-center text-bold text-xl">
+                    <div className="text-center text-bold text-xl bg-white text-gray-700">
                       For enquiries, call: 0243217480
                     </div>
                   </div>
