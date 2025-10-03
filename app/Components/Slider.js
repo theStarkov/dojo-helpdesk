@@ -154,12 +154,11 @@ export const Slider = () => {
                     </div>
 
                     <div className="border-b-8 border-[#C19503]"></div>
-                    <div className="text-center text-bold text-2xl">
-                      CHRIST OASIS MINISTRIES
+                    <div className="text-center text-bold text-2xl bg-white text-gray-900">
+                      VENUE TO BE COMMUNICATED SOON
                     </div>
-                    <div className="text-center text-bold text-lg tracking-wider ">
-                      AIRPORT-CITY OPP CASA TRASACCO,<br/>
-                      BEHIND ACCRA MALL
+                    <div className="text-center text-bold text-lg tracking-wider bg-white text-gray-900 ">
+                      FOR ENQUIRIES, CALL: 0243217480
                     </div>
                   </div>
                 </div>
@@ -224,10 +223,10 @@ export const Slider = () => {
                       Venue:
                     </div>
                     <div className="text-center text-bold text-xl">
-                      Christ Oasis Ministries
+                      Venue to be communicated soon
                     </div>
                     <div className="text-center text-bold text-xl">
-                      Airport-City Opp Casa Trasacco, <br/> Behind Accra Mall
+                      For enquiries, call: 0243217480
                     </div>
                   </div>
                 </div>
