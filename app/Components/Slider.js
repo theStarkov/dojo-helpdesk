@@ -154,10 +154,10 @@ export const Slider = () => {
                     </div>
 
                     <div className="border-b-8 border-[#C19503]"></div>
-                    <div className="text-center text-bold text-2xl bg-white text-gray-900">
+                    <div className="text-center text-bold text-2xl text-white">
                       CHRIST OASIS MINISTRIES
                     </div>
-                    <div className="text-center text-bold text-lg tracking-wider bg-white text-gray-900 ">
+                    <div className="text-center text-bold text-lg tracking-wider text-white ">
                      AIRPORT-CITY, ACCRA
                     </div>
                   </div>
@@ -222,10 +222,10 @@ export const Slider = () => {
                     <div className="text-center text-xl text-[#C19503] font-bold">
                       Venue:
                     </div>
-                    <div className="text-center text-bold text-xl bg-white text-gray-700">
+                    <div className="text-center text-bold text-xl text-white">
                       Christ Oasis Ministries
                     </div>
-                    <div className="text-center text-bold text-xl bg-white text-gray-700">
+                    <div className="text-center text-bold text-xl text-white">
                       Airport-City, Accra
                     </div>
                   </div>
