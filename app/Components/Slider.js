@@ -18,7 +18,7 @@ export const Slider = () => {
   ];
   const [currentBackground, setCurrentBackground] = useState(0);
   const [currentText, setCurrentText] = useState(0);
-  const monthTheme = "THE FAITHFUL GOD AND HIS FRIENDS";
+  const monthTheme = "A DAY WITH HIM";
   const wordings = [
     "Jesus Christ",
     "The Holy Spirit",
@@ -98,7 +98,7 @@ export const Slider = () => {
             <div className="flex w-full flex-col gap-3 ">
               <div className="grid  justify-center rounded p-6">
                 <div className="text-[#C19503] text-center text-2xl  font-bold">
-                  A DAY WITH HIM
+                  NOVEMBER 2025 EDITION
                   {/* OCTOBER 2025 EDITION */}
                 </div>
 
@@ -133,14 +133,14 @@ export const Slider = () => {
                 <div className="border-r-8 border-[#C19503] p-6  text-white">
                   <div className="grid grid-rows-3 pl-16 ml-16 ">
                     <div className="text-center text-bold text-2xl">
-                      10th Oct 2025
+                      14th Nov 2025
                     </div>
                     <div className="text-center font-bold text-2xl text-[#C19503]">
                       {/*text-[#C19503] */}
                       to
                     </div>
                     <div className="text-center text-bold text-2xl">
-                      11th Oct 2025
+                      15th Nov 2025
                     </div>
                     {/* <div className='text-right text-bold text-3xl text-yellow-600'><span className='flex items-left justify-end text-left'>NOV</span> <span className='text-right'>DEC</span></div> */}
                     {/* <div className='text-right text-bold text-2xl'>November, 2023</div> */}
@@ -155,10 +155,10 @@ export const Slider = () => {
 
                     <div className="border-b-8 border-[#C19503]"></div>
                     <div className="text-center text-bold text-2xl bg-white text-gray-900">
-                      VENUE TO BE COMMUNICATED SOON
+                      CHRIST OASIS MINISTRIES
                     </div>
                     <div className="text-center text-bold text-lg tracking-wider bg-white text-gray-900 ">
-                      FOR ENQUIRIES, CALL: 0243217480
+                     AIRPORT-CITY, ACCRA
                     </div>
                   </div>
                 </div>
@@ -179,7 +179,7 @@ export const Slider = () => {
             <div className="flex w-full flex-col gap-3">
               <div className="grid  justify-center rounded ">
                 <div className="text-[#C19503] font-bold text-center mt-2 text-lg">
-                  A Day With Him
+                  November 2025 Edition
                   {/* October 2025 Edition */}
                 </div>
                 <div className="text-center font-bold text-white p-2 text-2xl">
@@ -194,11 +194,11 @@ export const Slider = () => {
                       Date:
                     </div>
                     <div className="text-center text-bold text-xl">
-                      10th Oct 2025
+                      14th Nov 2025
                     </div>
                     <div className="text-center text-bold text-xl">to</div>
                     <div className="text-center text-bold text-xl">
-                      11th Oct 2025
+                      15th Nov 2025
                     </div>
                   </div>
                 </div>
@@ -223,10 +223,10 @@ export const Slider = () => {
                       Venue:
                     </div>
                     <div className="text-center text-bold text-xl bg-white text-gray-700">
-                      Venue to be communicated soon
+                      Christ Oasis Ministries
                     </div>
                     <div className="text-center text-bold text-xl bg-white text-gray-700">
-                      For enquiries, call: 0243217480
+                      Airport-City, Accra
                     </div>
                   </div>
                 </div>
